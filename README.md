@@ -36,21 +36,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaank17&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaank17&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-### 🔭 I’m currently exploring:
-- Full-Stack Development with **Express + EJS**
-- Machine Learning & AI with **PyTorch**
-- Microcontrollers and Hardware Projects with **Arduino**
-
----
-
-> “The best way to predict the future is to invent it.” – Alan Kay
