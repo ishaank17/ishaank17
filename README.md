@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishaan Kamath</h1>
+<h1 align="center">Hi, I'm Ishaan Kamath</h1>
 <!-- <h3 align="center">Developer • Engineer • Tinkerer</h3> -->
 
 <p align="center">
@@ -21,14 +21,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-- 💻 Languages: **C, C++, Java, Python, JavaScript, HTML, CSS**
-- 📦 Libraries: **Pandas, PyTorch**
-- 🌐 Web Dev: **Node.js, Express.js, EJS**
-- 🎮 Game Dev: **Unity (C#)**
-- ⚙️ Embedded & Simulation: **Arduino, MATLAB**
-
----
 
 ### 📫 Contact Me
 
