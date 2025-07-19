@@ -24,7 +24,7 @@
 
 ### 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:ishaankkamath@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:ishaan.kamath@iitgn.ac.in)
 
 ---
 
